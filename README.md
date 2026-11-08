@@ -2,6 +2,7 @@
 
 Code for the paper *SANKOFA: Vetted-Answer Recommendation with Per-Language Safety Guarantees for Health
 Questions in Low-Resource African Languages*. CPU only; no GPU, no pretrained models, no internet.
+<img width="100%" height="315" alt="Screenshot 2026-11-08 at 11 10 35" src="https://github.com/user-attachments/assets/f5432357-0114-478c-8367-765aa4b0ee0d" />
 
 ## Setup
 
